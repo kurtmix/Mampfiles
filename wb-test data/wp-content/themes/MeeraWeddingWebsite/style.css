@@ -1,0 +1,36 @@
+
+/*
+Theme Name: Meera's Wedding Website
+Description: A Special Theme For A Special Day
+Author: KurtW.W
+Template: _tk
+*/
+
+/* write custom css */
+@font-face {
+    font-family:"LearningCurve";
+    src: url(LearningCurve_OT.otf);
+}
+.site-branding {
+    background: rgba(0,0,0,0.45);
+    float: right;
+    padding-right: 20px;
+    width: 400px;
+}
+p.lead {
+    float: inherit;
+    font-family: "LearningCurve";
+    color: white;
+    font-size: 30px;
+}
+
+h1.site-title {
+    font-size: 60px;
+    float: right;
+    font-family: "LearningCurve";
+    color: lightgrey;
+}
+a{
+	color:inherit;
+}
+

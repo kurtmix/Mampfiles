@@ -1,0 +1,40 @@
+/*
+Theme Name: Tk Child
+Description: Child theme for tk theme
+Template: _tk
+*/
+
+@font-face {
+    font-family:"LearningCurve";
+    src: url(fonts/LearningCurve_OT.otf);
+}
+.site-branding {
+    background: rgba(0,0,0,0.45);
+    float: right;
+    padding-right: 20px;
+    width: 400px;
+}
+p.lead {
+    float: inherit;
+    font-family: "LearningCurve";
+    color: white;
+    font-size: 30px;
+}
+
+h1.site-title {
+    font-size: 60px;
+    float: right;
+    font-family: "LearningCurve";
+    color: lightgrey;
+}
+a{
+	color:inherit;
+}
+a:hover, a:focus {
+    color: inherit;
+    text-decoration: none;
+}
+body{
+    background-image:url("https://newevolutiondesigns.com/images/freebies/city-wallpaper-38.jpg");
+}
+
